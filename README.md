@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohammad.
-- 👀 I’m interested in Python, Linux, Docker and automation.
+- 👀 I’m interested in DevOps, Python, Linux, Docker and automation.
 - 🌱 I’m currently learning a lot! :D
 - 💞️ I’m looking to collaborate on Tech!
 - 📫 Reach me here: mhsharifi@hotmail.com OR msnband@hotmail.com
